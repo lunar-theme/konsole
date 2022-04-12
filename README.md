@@ -9,17 +9,21 @@
 
 ![Preview](./assets/preview.png)
 
+The stuff used in the preview is [pfetch](https://github.com/dylanaraps/pfetch) and [DT's colorscripts](https://gitlab.com/dwt1/shell-color-scripts)
+
 ## 💻 Installation
 
-```shell
+ 
+1. ```shell
 git clone https://github.com/lunar-theme/konsole
 ```
 
-```shell
+
+2. ```shell
 mv Lunar.colorscheme ~/.local/share/konsole
 ```
 
-Go to Konsole settings and switch the profile colorscheme to Lunar
+3. Go to Konsole settings and switch the profile colorscheme to Lunar
 
 ## 🤝 Contributing
 
