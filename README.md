@@ -13,13 +13,13 @@ The stuff used in the preview is [pfetch](https://github.com/dylanaraps/pfetch) 
 
 ## 💻 Installation
 
- 
-1. ```shell
+1. 
+```shell
 git clone https://github.com/lunar-theme/konsole
 ```
 
-
-2. ```shell
+2.
+```shell
 mv Lunar.colorscheme ~/.local/share/konsole
 ```
 
