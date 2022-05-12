@@ -13,6 +13,14 @@ The stuff used in the preview is [pfetch](https://github.com/dylanaraps/pfetch) 
 
 ## 💻 Installation
 
+Automatic Installation
+
+```shell
+./install.sh
+```
+
+Manual Installation
+
 1. 
 ```shell
 git clone https://github.com/lunar-theme/konsole
