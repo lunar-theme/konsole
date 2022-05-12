@@ -12,4 +12,5 @@ else
 	mkdir -p "~/.local/share/konsole"
 	mv Lunar.colorscheme ~/.local/share/konsole	
 fi
+
 echo "Installation complete"
